@@ -20,10 +20,10 @@ The pipeline supports 2-, 3-, and 4-channel imaging datasets and standardizes ch
 
 | Number of Channels | Pseudocolor Assignment |
 |-------------------|------------------------|
-| 1 channel | Blue |
-| 2 channels | Blue, Green |
-| 3 channels | Blue, Green, Red |
-| 4 channels | Blue, Green, Red, Grey |
+| 1 channel | DAPI |
+| 2 channels | DAPI, GFP |
+| 3 channels | DAPI, GFP, RFP |
+| 4 channels | DAPI, GFP, RFP, NIR |
 
 ---
 
