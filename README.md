@@ -81,6 +81,14 @@ This metadata is used to group channels correctly and generate overlays.
 - Figure generation for posters and presentations
 - Imaging quality control
 
+### Example Usage
+
+Example input images are in `example_images/`.  
+Example outputs (overlays and CSV results) are in `example_outputs/`.  
+
+You can run the pipeline on the included images to reproduce the outputs.
+
+
 ---
 
 ## Notes
